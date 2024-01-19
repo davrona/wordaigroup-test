@@ -1,0 +1,7 @@
+This is a sample input file for testing the word_counter.py application. This file contains several lines of text with words and punctuation.
+
+Let's add some more words to make it interesting. More words mean a better test scenario. It's important to check if the application handles various cases, including uppercase and special characters!
+
+Now, let's repeat some words to see how the application counts occurrences. Word counter, are you up for the challenge?
+
+This is the end of the sample input file. Thank you for using word_counter.py!
